@@ -1,2 +1,5 @@
 # web-spider
-This is a web spider of python's urllib.About Baidu tieba and ZhiHu NOW!
+这是一个运用python的urllib写的简易爬虫！
+<h2>爬虫简介：</h2>
+目前只有抓取百度贴吧帖子、百度贴吧动漫、知乎问题(前十)回答
+后续会更新！
